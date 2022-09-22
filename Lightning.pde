@@ -28,7 +28,7 @@ void draw()
   }
   fill(255,255,255);
   textSize(50);
-  text("DO IT!!!",70,70);
+  text("DO IT",70,70);
   //System.out.println(mouseX);
   //System.out.println(mouseY);
 }
